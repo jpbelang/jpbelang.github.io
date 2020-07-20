@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Je suis en développeur qui travaille depuis longtemps. Je code en anglais, mais je vais essayer de blogguer en français.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Je fais du vélo l'éte. Je joue au hockey l'hiver. Ça fait de moi le québécois moyen.  
 
-### Contact me
+Je joue à des boardgames, des jeux vidéos, à D&D et j'ai déjà fait du GN. Ça fait de moi un geek.
 
-[email@domain.com](mailto:email@domain.com)
+Je fais du kendo depuis 25 ans. Ça fait de moi un geek qui aime les épées.
