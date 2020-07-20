@@ -13,3 +13,5 @@ PS : On va tout de suite donner mes opinions urgentes, pour être clair :
 * Il manque de femmes en informatique. 
 * J'ai travaillé avec mon premier programmeur africain beaucoup trop tard.  
 * Les seules personnes qui comprennent le code en production, ce sont les codeurs.
+
+PPS : Coïncidence, mais c'est le 51e anniversaire de l'alunissage. :-)
