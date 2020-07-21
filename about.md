@@ -8,7 +8,7 @@ Je suis en développeur qui travaille depuis longtemps. Je code en anglais, mais
 
 ### More Information
 
-Je fais du vélo l'éte. Je joue au hockey l'hiver. Ça fait de moi le québécois moyen.  
+Je fais du vélo l'éte. Je joue au hockey l'hiver. Ça fait de moi un québécois moyen.  
 
 Je joue à des boardgames, des jeux vidéos, à D&D et j'ai déjà fait du GN. Ça fait de moi un geek.
 
