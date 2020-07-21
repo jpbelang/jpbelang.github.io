@@ -6,7 +6,7 @@ permalink: /about/
 
 Je suis en développeur qui travaille depuis longtemps. Je code en anglais, mais je vais essayer de blogguer en français.
 
-### More Information
+### Aussi...
 
 Je fais du vélo l'éte. Je joue au hockey l'hiver. Ça fait de moi un québécois moyen.  
 
