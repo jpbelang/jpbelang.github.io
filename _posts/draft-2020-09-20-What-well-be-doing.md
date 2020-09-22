@@ -26,7 +26,7 @@ les tests d'intégration, `supertest`. On ne virera pas fous sur les niveaux de 
 
 # Premières impressions de typescript
 
-Ce que j'aimais beaucoup dans la syntaxe de Golang, c'est l'idée d'implémentation implicite: proche du duck-typing ça
+Ce que j'aimais beaucoup dans la syntaxe de Golang, c'est l'idée d'implémentation implicite: proche du duck-typing, ça
 fait que l'on s'inquiète pas trop des déclarations et d'implémentations des classes. Si ca ressemble, ca fitte. Ça
 évite le développement boilerplate d'adaptateurs. 
 
