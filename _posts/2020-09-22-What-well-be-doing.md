@@ -3,8 +3,6 @@ layout: post
 title: Le projet.
 ---
 
-# Présentation du projet
-
 J'ai récemment développé un intérêt pour Typescript. Ça fait plus de vingt ans que je 
 developpe en Java (avec quelques escales en C++ et C#). Je voulais me sortir de ma zone de confort et 
 ça semblait un bon endroit où aller. J'explore aussi Golang. Mais dans mon élan professionnel, je suis 
