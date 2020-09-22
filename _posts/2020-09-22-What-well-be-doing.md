@@ -25,7 +25,7 @@ les tests d'intégration, `supertest`. On ne virera pas fous sur les niveaux de 
 Ah oui, j'oubliais : kossé qu'on va faire. On va faire un système de gestion de cours. Des cours, des profs, des
 usagers, des factures...  
 
-# Premières impressions de Typescript
+## Premières impressions de Typescript
 
 Ce que j'aimais beaucoup dans la syntaxe de Golang, c'est l'idée d'implémentation implicite: proche du duck-typing, ça
 fait que l'on s'inquiète pas trop des déclarations et d'implémentations des classes. Si ca ressemble, ca fitte. Ça
@@ -36,7 +36,7 @@ valeur a notre code. En plus, la creation d'objets non-typés de Typescript (hé
 Relativement à Java ca sauve des lignes de code qui sont souvent inutiles et bruyantes. Le problème, à mon avis, 
 c'est que ca prend de la discipline pour gérer les raccourcis que l'on pourrait utiliser.  
 
-# Les types : mes débuts
+## Les types : mes débuts
 
 À part les types de base de Typescript, qui sont simples et assez standards, il y a trois façons de créer des types
 : Les `class`, les `interface` et les `type alias`.
