@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On commence.
+title: Les entités.
 ---
 
 Merde. Je suis trop occupé (travail, passe-temps). Ça va mieux aller. On avance comme on peut :-).
