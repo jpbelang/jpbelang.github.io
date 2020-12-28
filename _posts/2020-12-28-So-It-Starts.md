@@ -41,7 +41,7 @@ en tant que telle, et on déclare les relations entre les entités and ces class
 La seule difficulté (plutôt surprise) que j'ai eu, c'est la nature un peu circulaire des relations :  par exemple, entre `Course` et `FieldOfExpertise`,
 on a une collection qui est annotée pour référer à son partenaire. Donc ici, j'ai utilisé des chaînes de caractères plutôt que le nom du type parce que j'avais 
 des erreurs au lancement. C'était causé par des problèmes d'initialisation des types dans le système d'annotation de TypeScript. Je crois que 
-j'aurais pû utiliser une fonction plutôt qu'une chaine. J'essayerai plus tard...
+j'aurais pu utiliser une fonction plutôt qu'une chaine. J'essayerai plus tard...
 
 La seule classe commune que j'ai utilisé (`SimpleVersionedObject`) sert a m'éviter de configurer mon UUID comme clé primaire et 
 ma propriété de versionemment.
