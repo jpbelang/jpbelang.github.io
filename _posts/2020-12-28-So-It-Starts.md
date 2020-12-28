@@ -52,3 +52,5 @@ en fait), mais on va rectifier le tir au fur et à mesure.
 
 Prochain
 Onwards and upwards, comme ils disent...
+
+PS: On était au commit [ici](https://github.com/jpbelang/cursus/tree/december-21-annoyed). J'expliquerai plus tard pourquoi je suis contrarié.
